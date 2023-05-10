@@ -61,7 +61,7 @@
        </div>
        <div class="heading">
        <div class="box">
-        <p>Down below you <b>can play a game</b></p>
+        <p>Here's my one secret<b>.....</b></p>
        </div>
        </div>
     </main>
